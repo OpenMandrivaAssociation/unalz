@@ -1,6 +1,6 @@
 Summary:	Unpacks ALZip files
 Name:		unalz
-Version:	0.61
+Version:	0.62
 Release:	%mkrel 1
 License:	BSD
 Group:		Archiving/Compression
