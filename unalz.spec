@@ -1,7 +1,7 @@
 Summary:	Unpacks ALZip files
 Name:		unalz
 Version:	0.65
-Release:	%mkrel 2
+Release:	%mkrel 3
 License:	BSD
 Group:		Archiving/Compression
 URL:		http://www.kipple.pe.kr/win/unalz/
