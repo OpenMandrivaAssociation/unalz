@@ -4,7 +4,7 @@ Version:	0.65
 Release:	%mkrel 3
 License:	BSD
 Group:		Archiving/Compression
-URL:		http://www.kipple.pe.kr/win/unalz/
+URL:		https://www.kipple.pe.kr/win/unalz/
 Source0:	http://www.kipple.pe.kr/win/unalz/%{name}-%{version}.tgz
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildRequires: zlib-devel
