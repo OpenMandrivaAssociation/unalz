@@ -7,6 +7,7 @@ Group:		Archiving/Compression
 URL:		https://www.kipple.pe.kr/win/unalz/
 Source0:	http://www.kipple.pe.kr/win/unalz/%{name}-%{version}.tgz
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
+BuildRequires:	make
 BuildRequires: zlib-devel
 
 %description
